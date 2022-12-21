@@ -1,4 +1,4 @@
-package com.yasarkemalyavuz.springbootfootballer.Entity;
+package com.yasarkemalyavuz.springbootfootballer.entity;
 
 public class Footballer {
 
